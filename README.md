@@ -1,6 +1,6 @@
 # university_maven
  
-clone the application
+## clone the application
 
 open src/main/resources/application.properties
 
@@ -21,9 +21,9 @@ docker run -p 8081:8081 spring-example
 
 Application will start running at http://localhost:8081
 
-Explore the REST APIs
+## Explore the REST APIs
 
-GET /test/student/  
-GET /test/student/{studentId}
-GET /test/student/{studentId}/enrollments
+GET /test/student/  <br/>
+GET /test/student/{studentId} <br/>
+GET /test/student/{studentId}/enrollments <br/>
 GET /test/student/{studentId}/enrollments/{courseId}
