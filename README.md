@@ -1,4 +1,4 @@
-# university_maven
+# Containerized Spring Boot Application with Maven
  
 ## clone the application
 
