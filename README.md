@@ -9,7 +9,7 @@ change spring.datasource.url, spring.datasource.username and spring.datasource.p
 open src/main/resources/hibernate.cfg.xml
  update "hibernate.connection.url", "hibernate.connection.username", "hibernate.connection.password" with credentials created in the mysql container setup
 
-cd into the university_maven, build the application using maven command <br/>
+cd into the university_maven director, build the application using maven command <br/>
 <code>mvn package</code>
 
 build the docker image based on the maven package using <br/>
