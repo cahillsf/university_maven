@@ -14,7 +14,7 @@
       
       
       <property name = "hibernate.connection.url">
-         jdbc:mysql://192.168.1.112:3306/university?useSSL=false&amp;useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true
+         jdbc:mysql://<YOUR_LOCAL_IP>:3306/university?useSSL=false&amp;useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true
       </property>
       
       <property name = "hibernate.connection.username">
