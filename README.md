@@ -1,6 +1,6 @@
 # Containerized Spring Boot Application with Maven
 
-For building the app we will be using apache maven, download here (https://maven.apache.org/download.cgi).
+For building the project we will be using apache maven, download here (https://maven.apache.org/download.cgi).
 
 We will also be using docker (https://docs.docker.com/) to containerize our Spring Boot service.
  
